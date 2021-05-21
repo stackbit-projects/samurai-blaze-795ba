@@ -608,4 +608,5 @@ models:
     fields:
       - name: backgroundimage
         type: image
+        required: true
     description: Samurai Hero
