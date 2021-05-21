@@ -606,6 +606,6 @@ models:
     type: object
     label: samurai
     fields:
-      - name: image
+      - name: backgroundimage
         type: image
     description: Samurai Hero
