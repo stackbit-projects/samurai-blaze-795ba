@@ -609,4 +609,6 @@ models:
       - name: backgroundimage
         type: image
         required: true
+      - name: ''
+        type: string
     description: Samurai Hero
