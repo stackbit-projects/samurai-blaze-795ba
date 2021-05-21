@@ -611,4 +611,5 @@ models:
         required: true
       - name: ''
         type: html
+        label: Content
     description: Samurai Hero
