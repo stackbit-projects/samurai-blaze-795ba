@@ -609,7 +609,7 @@ models:
       - name: backgroundimage
         type: image
         required: true
-      - name: ''
+      - name: textcontent
         type: html
         label: Content
     description: Samurai Hero
