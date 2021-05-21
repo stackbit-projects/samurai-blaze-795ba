@@ -612,4 +612,5 @@ models:
       - name: textcontent
         type: html
         label: Content
+        required: true
     description: Samurai Hero
