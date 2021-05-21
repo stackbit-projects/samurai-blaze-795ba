@@ -606,5 +606,5 @@ models:
     type: object
     label: samurai
     fields:
-      - name: ''
+      - name: image
         type: string
