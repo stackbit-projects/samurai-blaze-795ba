@@ -607,4 +607,4 @@ models:
     label: samurai
     fields:
       - name: image
-        type: string
+        type: image
