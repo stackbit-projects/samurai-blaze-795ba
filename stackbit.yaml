@@ -608,3 +608,4 @@ models:
     fields:
       - name: image
         type: image
+    description: Samurai Hero
