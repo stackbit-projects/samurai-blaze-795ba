@@ -605,3 +605,6 @@ models:
   samurai:
     type: object
     label: samurai
+    fields:
+      - name: ''
+        type: string
